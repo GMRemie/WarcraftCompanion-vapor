@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/josephstorer/Desktop/WarcraftBackend/.build/checkouts/crypto.git-3298969446992834326/Sources/CCryptoOpenSSL/include"
+    export *
+}

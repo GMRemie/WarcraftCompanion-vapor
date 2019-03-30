@@ -1,0 +1,4 @@
+module CNIOOpenSSL {
+    umbrella "/Users/josephstorer/Desktop/WarcraftBackend/.build/checkouts/swift-nio-ssl.git-735466265917368356/Sources/CNIOOpenSSL/include"
+    export *
+}
